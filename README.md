@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Akilan 👋
 
-<!--
-**csakilan/csakilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a software engineering student passionate about building clean, efficient, and impactful projects. I enjoy working with modern web technologies, machine learning, and cloud infrastructure.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: JavaScript, Python, TypeScript
+- **Frameworks**: React, Next.js, Node.js
+- **Tools**: Docker, Git, AWS, Kubernetes
+- **Other**: Tailwind CSS, REST APIs, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [**Project One**](#) – Add later
+- [**Project Two**](#) – Add later
+
+## 📫 Contact
+- Email: chithra.sathish.akilan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akilanchithrasathish/
