@@ -7,11 +7,10 @@
 # Hi, I'm Akilan 👋
 
 ## 🚀 About Me
-I'm a Computer Science student at UTD with a 4.0 GPA, passionate about AI/ML, software engineering, and cloud-native development. I love creating impactful projects, from real-time audio tools to autonomous driving modules.
+
 ```json
 {
   "name": "CS Major @ UTD",
-  "motto": "Whatever you throw my way, I’ll run with it.",
   "fields_of_interest": ["Math", "Cloud", "Robotics", "DevOps", "AI/ML"],
   "currently_learning": ["AWS", "RAG", "LangChain"],
   "hobbies": ["Music", "Soccer", "Comedy", "Catan", "Fein"]
@@ -35,6 +34,9 @@ I'm a Computer Science student at UTD with a 4.0 GPA, passionate about AI/ML, so
 ![Akilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=csakilan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csakilan&layout=compact&theme=radical)
 --!>
+
+
+
 
 
 <picture>
