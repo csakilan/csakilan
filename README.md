@@ -6,7 +6,7 @@
 
 # Hi, I'm Akilan 👋
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
 ```json
 {
@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 Projects
+## 📌 PROJECTS
 - **DJSplitter** – Web-based music stem-separation & mixer (React/Vite, Tone.js, Flask, Demucs, Celery, Redis).
 - **GestureController** – Touch-free volume & brightness control using webcam gestures (Python, MediaPipe, OpenCV, Flask).
 - **MelodyGen** – RNN-based melody composer (TensorFlow, Flask, Next.js) with sub-90ms latency.
@@ -57,7 +57,7 @@
 
 
 <!-- IDEs & Editors -->
-<h2> 🛠 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🛠 &nbsp;TOOLS</h2>
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
