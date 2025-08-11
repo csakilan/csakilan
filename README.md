@@ -13,7 +13,7 @@
   "name": "CS Major @ UTD",
   "fields_of_interest": ["Math", "Cloud", "Robotics", "DevOps", "AI/ML"],
   "currently_learning": ["AWS", "RAG", "LangChain"],
-  "hobbies": ["Music", "Soccer", "Comedy", "Catan", "Fein"]
+  "hobbies": ["Music", "Soccer", "Comedy", "Catan"]
 }
 ```
 
