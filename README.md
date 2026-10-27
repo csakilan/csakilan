@@ -11,9 +11,9 @@
 ```json
 {
   "name": "CS Major @ UTD",
-  "fields_of_interest": ["Math", "Cloud", "Robotics", "DevOps", "AI/ML"],
-  "currently_learning": ["AWS", "RAG", "LangChain"],
-  "hobbies": ["Music", "Soccer", "Comedy", "Catan"]
+  "fields_of_interest": ["Agentic AI", "Cloud", "Data Engineering", "Math", "Robotics", "DevOps", "AI/ML"],
+  "currently_learning": ["Jev", "LangSmith", "Kubernetes"],
+  "hobbies": ["Guitar", "Poker", "Hackathons", "Comedy"]
 }
 ```
 
@@ -24,16 +24,17 @@
 ## 📌 PROJECTS
 - **[Logistics Recovery Agent](https://github.com/csakilan/logistics-recovery-agent)** – Approval-gated LangGraph agent that proposes replacement couriers for cancelled deliveries, while backend code authorizes every booking (Python, LangGraph, FastAPI, SQLite, Pytest).
 - **[mini-argo](https://github.com/csakilan/mini-argo)** – GitOps operator for Kubernetes that reconciles cluster state against a Git repo and reverts manual changes (Go, Kubernetes, Docker, React/Vite).
-- **DJSplitter** – Web-based music stem-separation & mixer (React/Vite, Tone.js, Flask, Demucs, Celery, Redis).
-- **GestureController** – Touch-free volume & brightness control using webcam gestures (Python, MediaPipe, OpenCV, Flask).
-- **MelodyGen** – RNN-based melody composer (TensorFlow, Flask, Next.js) with sub-90ms latency.
+- **[Foundry](https://github.com/csakilan/FoundryBackend)** – 2nd Place, ACM Projects. Drag-and-drop AWS builder that compiles a visual canvas into CloudFormation and deploys it (FastAPI, PostgreSQL, AWS CloudFormation, WebSockets).
+- **[DJSplitter](https://github.com/csakilan/DJSplitter)** – Web-based music stem-separation & mixer (React/Vite, Tone.js, Flask, Demucs, Celery, Redis).
+- **[GestureController](https://github.com/csakilan/GestureController)** – Touch-free volume & brightness control using webcam gestures (Python, MediaPipe, OpenCV, Flask).
+- **[MelodyGen](https://github.com/csakilan/MelodyGen)** – RNN-based melody composer (TensorFlow, Flask, Next.js) with sub-90ms latency.
 
 ---
 
 ## 🏆 HACKATHON WINS
-- **ReAgent** – 3rd Place, NMC2 Track @ HackTX 2026. Platform for building, testing, and deploying reusable AI agents. [Devpost](https://devpost.com/software/reagent-dca69o)
-- **LapSynk** – 2nd Place @ HackTX 2025. AI race-engineer copilot that automates driver communication and strategy (Gemini, Cloudflare, ElevenLabs). [Devpost](https://devpost.com/software/a-wnbv1p)
-- **RxBridge** – 2nd Place, Commure Track @ HackRice 2025. AI copilot that helps pharmacists respond to drug shortages (Gemini, FastAPI). [Devpost](https://devpost.com/software/aaaa-h901oe)
+- **[ReAgent](https://github.com/hanhg/Reagent)** – 3rd Place, NMC2 Track @ HackTX 2026. Platform for building, testing, and deploying reusable AI agents. [Devpost](https://devpost.com/software/reagent-dca69o)
+- **[LapSynk](https://github.com/csakilan/HackTX)** – 2nd Place @ HackTX 2025. AI race-engineer copilot that automates driver communication and strategy (Gemini, Cloudflare, ElevenLabs). [Devpost](https://devpost.com/software/a-wnbv1p)
+- **[RxBridge](https://github.com/arnavjainpro/HackRice)** – 2nd Place, Commure Track @ HackRice 2025. AI copilot that helps pharmacists respond to drug shortages (Gemini, FastAPI). [Devpost](https://devpost.com/software/aaaa-h901oe)
 
 ---
 
