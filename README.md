@@ -77,27 +77,62 @@
 <!-- Frameworks & Libraries -->
 <h3>Frameworks & Libraries</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,graphql,vite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,graphql,vite,tailwind,materialui&perline=10" />
   <!-- OpenCV is not on skillicons; fallback below (optional) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="45" height="45" />
+  <!-- Not on skillicons: Simple Icons / devicon fallbacks -->
+  <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" title="Pydantic" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" title="SQLAlchemy" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/celery" alt="Celery" title="Celery" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" alt="Zustand" title="Zustand" width="45" height="45" />
 </p>
 
 <!-- Cloud & DevOps -->
 <h3>Cloud & DevOps</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,bash,azure,cloudflare,githubactions,prometheus&perline=10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry" title="OpenTelemetry" width="45" height="45" />
 </p>
 
 <!-- Machine Learning / Data -->
 <h3>Machine Learning / Data</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros&perline=10" />
+  <!-- Jupyter is not on skillicons (it renders blank there); devicon fallback -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/pandas/_/white" alt="pandas" title="pandas" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/googlebigquery" alt="BigQuery" title="BigQuery" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/mediapipe" alt="MediaPipe" title="MediaPipe" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/roboflow" alt="Roboflow" title="Roboflow" width="45" height="45" />
+</p>
+
+<!-- AI Agents & LLMs -->
+<h3>AI Agents & LLMs</h3>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" title="LangGraph" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/_/white" alt="Model Context Protocol" title="Model Context Protocol" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" title="Gemini" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/elevenlabs/_/white" alt="ElevenLabs" title="ElevenLabs" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" title="Hugging Face" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/vllm" alt="vLLM" title="vLLM" width="45" height="45" />
 </p>
 
 <!-- Databases -->
 <h3>Databases</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase&perline=10" />
+  <img src="https://cdn.simpleicons.org/timescale" alt="TimescaleDB" title="TimescaleDB" width="45" height="45" />
+</p>
+
+<!-- Testing -->
+<h3>Testing</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vitest&perline=10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" title="pytest" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="45" height="45" />
 </p>
 
 <!-- Development Environment -->
@@ -109,7 +144,7 @@
 <!-- Design & Documentation -->
 <h3>Design & Documentation</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=figma,latex&perline=10" />
 </p>
 
 
